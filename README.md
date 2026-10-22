@@ -1,6 +1,6 @@
 # lien-plugins
 
-四個 Claude Code plugin，內容是實際踩過坑換來的做法——不是通用教學，
+五個 Claude Code plugin，內容是實際踩過坑換來的做法——不是通用教學，
 是「這樣做會出事，所以要那樣做」。
 
 ## 安裝
@@ -18,6 +18,7 @@
 | **[print-cmyk](./print-cmyk)** | 大圖／防水布／異形看板送印。**不要交 CMYK TIFF**（RIP 會反相成負片）、驗色要走 ICC 不能用近似公式 |
 | **[reel](./reel)** | ffmpeg 剪輯產線。**YouTube「處理完才說無法上傳」的三個真因**、Whisper 幻覺、雲端同步靜默回收素材 |
 | **[safe-commit](./safe-commit)** | commit 前的敏感資料檢查。**中文檔名讓 git 的 grep 永遠 0 命中且不報錯**、完整外洩止血流程 |
+| **[voice-clone](./voice-clone)** | 用自己的克隆聲音做中文旁白（Apple Silicon 本機跑）。**換參考音救不了發音**、模型固定唸錯的 23 個詞與替代字、Whisper 回聽驗收 |
 
 ## 這些內容的來源
 

@@ -1,0 +1,7 @@
+{
+  "name": "voice-clone",
+  "description": "用自己的克隆聲音做中文旁白：Qwen3-TTS 在 Apple Silicon 本機跑、不上雲。附一鍵設定、同音替代表（模型固定唸錯的 23 個詞）與 Whisper 回聽驗收腳本，以及參考音挑法、數字寫法、混音地雷。",
+  "version": "1.0.0",
+  "author": { "name": "Lien" },
+  "license": "MIT"
+}
